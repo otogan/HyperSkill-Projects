@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 class Main {
     public static void main(String[] args) {
@@ -15,8 +13,7 @@ class Main {
             }
             i++;
         }
-        for (int j = list.size() - 1; j >= 0; j--) {
-            System.out.print(list.get(j) + " ");
-        }
+        Collections.reverse(list);
+        list.forEach(e -> System.out.print(e + " "));
     }
 }
