@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Backward indexes/Problems-Backward_indexes.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Backward indexes/Problems-Backward_indexes.iml" group="Readability_Score/Problems-Backward_indexes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Backward indexes/Problems-Backward_indexes_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Backward indexes/Problems-Backward_indexes_main.iml" group="Readability_Score/Problems-Backward_indexes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Backward indexes/Problems-Backward_indexes_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Backward indexes/Problems-Backward_indexes_test.iml" group="Readability_Score/Problems-Backward_indexes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Greek letters/Problems-Greek_letters.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Greek letters/Problems-Greek_letters.iml" group="Readability_Score/Problems-Greek_letters" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Greek letters/Problems-Greek_letters_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Greek letters/Problems-Greek_letters_main.iml" group="Readability_Score/Problems-Greek_letters" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Greek letters/Problems-Greek_letters_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Greek letters/Problems-Greek_letters_test.iml" group="Readability_Score/Problems-Greek_letters" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability_Score.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability_Score.iml" group="Readability_Score" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task.iml" group="Readability_Score/Readability_Score-task" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task_main.iml" group="Readability_Score/Readability_Score-task" />

@@ -2,6 +2,10 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Problems-Backward_indexes_main" target="11" />
+      <module name="Problems-Backward_indexes_test" target="11" />
+      <module name="Problems-Greek_letters_main" target="11" />
+      <module name="Problems-Greek_letters_test" target="11" />
       <module name="Readability_Score-task_main" target="11" />
       <module name="Readability_Score-task_test" target="11" />
       <module name="util_main" target="11" />
