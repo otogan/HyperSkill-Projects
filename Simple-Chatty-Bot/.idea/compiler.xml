@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Arithmetic_average_main" target="11" />
+      <module name="Problems-Arithmetic_average_test" target="11" />
+      <module name="Problems-Boys_in_a_sport_class_main" target="11" />
+      <module name="Problems-Boys_in_a_sport_class_test" target="11" />
+      <module name="Problems-Bus_tour_main" target="11" />
+      <module name="Problems-Bus_tour_test" target="11" />
+      <module name="Problems-Cats_are_robots_main" target="11" />
+      <module name="Problems-Cats_are_robots_test" target="11" />
+      <module name="Problems-Check_a_number_is_positive_main" target="11" />
+      <module name="Problems-Check_a_number_is_positive_test" target="11" />
+      <module name="Problems-Check_the_sum_main" target="11" />
+      <module name="Problems-Check_the_sum_test" target="11" />
+      <module name="Problems-Check_the_value_main" target="11" />
+      <module name="Problems-Check_the_value_test" target="11" />
+      <module name="Problems-Chocolate_main" target="11" />
+      <module name="Problems-Chocolate_test" target="11" />
+      <module name="Problems-Collatz_conjecture_main" target="11" />
+      <module name="Problems-Collatz_conjecture_test" target="11" />
+      <module name="Problems-Even_or_odd_main" target="11" />
+      <module name="Problems-Even_or_odd_test" target="11" />
+      <module name="Problems-Grades_main" target="11" />
+      <module name="Problems-Grades_test" target="11" />
+      <module name="Problems-Healthy_sleep_main" target="11" />
+      <module name="Problems-Healthy_sleep_test" target="11" />
+      <module name="Problems-Integer_part_of_a_number_main" target="11" />
+      <module name="Problems-Integer_part_of_a_number_test" target="11" />
+      <module name="Problems-Interval_main" target="11" />
+      <module name="Problems-Interval_test" target="11" />
+      <module name="Problems-Is_between_main" target="11" />
+      <module name="Problems-Is_between_test" target="11" />
+      <module name="Problems-Leap_year_main" target="11" />
+      <module name="Problems-Leap_year_test" target="11" />
+      <module name="Problems-Maximum_element_divisible_by_four_main" target="11" />
+      <module name="Problems-Maximum_element_divisible_by_four_test" target="11" />
+      <module name="Problems-Numbers_divisible_by_six_main" target="11" />
+      <module name="Problems-Numbers_divisible_by_six_test" target="11" />
+      <module name="Problems-Profit_main" target="11" />
+      <module name="Problems-Profit_test" target="11" />
+      <module name="Problems-Queens_main" target="11" />
+      <module name="Problems-Queens_test" target="11" />
+      <module name="Problems-Reversing_main" target="11" />
+      <module name="Problems-Reversing_test" target="11" />
+      <module name="Problems-Sum_of_numbers_in_the_range_main" target="11" />
+      <module name="Problems-Sum_of_numbers_in_the_range_test" target="11" />
+      <module name="Problems-Symmetrical_number_main" target="11" />
+      <module name="Problems-Symmetrical_number_test" target="11" />
+      <module name="Problems-The__un_-ordered_sequence_main" target="11" />
+      <module name="Problems-The__un_-ordered_sequence_test" target="11" />
+      <module name="Problems-The_army_of_units_main" target="11" />
+      <module name="Problems-The_army_of_units_test" target="11" />
+      <module name="Problems-The_length_of_the_sequence_main" target="11" />
+      <module name="Problems-The_length_of_the_sequence_test" target="11" />
+      <module name="Problems-The_number_of_tens_main" target="11" />
+      <module name="Problems-The_number_of_tens_test" target="11" />
+      <module name="Problems-The_product_of_numbers_from_a_to_b_main" target="11" />
+      <module name="Problems-The_product_of_numbers_from_a_to_b_test" target="11" />
+      <module name="Problems-Triangle_main" target="11" />
+      <module name="Problems-Triangle_test" target="11" />
+      <module name="Problems-Vowel_or_not_main" target="11" />
+      <module name="Problems-Vowel_or_not_test" target="11" />
+      <module name="Simple_Chatty_Bot-task_main" target="11" />
+      <module name="Simple_Chatty_Bot-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
