@@ -8,6 +8,10 @@
       <module name="Problems-Filtering_the_list_test" target="11" />
       <module name="Problems-Greek_letters_main" target="11" />
       <module name="Problems-Greek_letters_test" target="11" />
+      <module name="Problems-Rotating_table_main" target="11" />
+      <module name="Problems-Rotating_table_test" target="11" />
+      <module name="Problems-The_first_index_of_a_sublist_main" target="11" />
+      <module name="Problems-The_first_index_of_a_sublist_test" target="11" />
       <module name="Readability_Score-task_main" target="11" />
       <module name="Readability_Score-task_test" target="11" />
       <module name="util_main" target="11" />
