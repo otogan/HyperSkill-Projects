@@ -26,8 +26,12 @@
       <module name="Problems-Greek_letters_test" target="11" />
       <module name="Problems-Iterable_range_main" target="11" />
       <module name="Problems-Iterable_range_test" target="11" />
+      <module name="Problems-List_multiplicator_main" target="11" />
+      <module name="Problems-List_multiplicator_test" target="11" />
       <module name="Problems-Output_names_of_the_methods_main" target="11" />
       <module name="Problems-Output_names_of_the_methods_test" target="11" />
+      <module name="Problems-Packing_backeries_main" target="11" />
+      <module name="Problems-Packing_backeries_test" target="11" />
       <module name="Problems-Remove_elements_of_a_collection_main" target="11" />
       <module name="Problems-Remove_elements_of_a_collection_test" target="11" />
       <module name="Problems-Returning_from_a_method_main" target="11" />
@@ -40,6 +44,8 @@
       <module name="Problems-Time_as_a_string_test" target="11" />
       <module name="Problems-Working_with_queue_main" target="11" />
       <module name="Problems-Working_with_queue_test" target="11" />
+      <module name="Problems-Writing_a_class_main" target="11" />
+      <module name="Problems-Writing_a_class_test" target="11" />
       <module name="Readability_Score-task_main" target="11" />
       <module name="Readability_Score-task_test" target="11" />
       <module name="util_main" target="11" />
