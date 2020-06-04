@@ -6,12 +6,18 @@
       <module name="Problems-Backward_indexes_test" target="11" />
       <module name="Problems-Filtering_the_list_main" target="11" />
       <module name="Problems-Filtering_the_list_test" target="11" />
+      <module name="Problems-Finding_the_max_number_main" target="11" />
+      <module name="Problems-Finding_the_max_number_test" target="11" />
       <module name="Problems-Getting_the_max_element_of_a_stack_main" target="11" />
       <module name="Problems-Getting_the_max_element_of_a_stack_test" target="11" />
       <module name="Problems-Greedy_load_balance_main" target="11" />
       <module name="Problems-Greedy_load_balance_test" target="11" />
       <module name="Problems-Greek_letters_main" target="11" />
       <module name="Problems-Greek_letters_test" target="11" />
+      <module name="Problems-Iterable_range_main" target="11" />
+      <module name="Problems-Iterable_range_test" target="11" />
+      <module name="Problems-Remove_elements_of_a_collection_main" target="11" />
+      <module name="Problems-Remove_elements_of_a_collection_test" target="11" />
       <module name="Problems-Rotating_table_main" target="11" />
       <module name="Problems-Rotating_table_test" target="11" />
       <module name="Problems-The_first_index_of_a_sublist_main" target="11" />
