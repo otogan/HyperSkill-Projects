@@ -1,6 +1,5 @@
 import java.io.CharArrayWriter;
 import java.io.IOException;
-import java.util.Arrays;
 
 class Converter {
     public static char[] convert(String[] words) throws IOException {
