@@ -15,3 +15,6 @@ content:
 - Time as a string
 - Books as strings
 - Account
+- An anonymous class with three methods
+- Returning from a method
+- Output names of the methods

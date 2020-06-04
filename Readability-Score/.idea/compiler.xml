@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="Problems-Account_main" target="11" />
       <module name="Problems-Account_test" target="11" />
+      <module name="Problems-An_anonymous_class_with_three_methods_main" target="11" />
+      <module name="Problems-An_anonymous_class_with_three_methods_test" target="11" />
       <module name="Problems-Backward_indexes_main" target="11" />
       <module name="Problems-Backward_indexes_test" target="11" />
       <module name="Problems-Books_as_strings_main" target="11" />
@@ -24,8 +26,12 @@
       <module name="Problems-Greek_letters_test" target="11" />
       <module name="Problems-Iterable_range_main" target="11" />
       <module name="Problems-Iterable_range_test" target="11" />
+      <module name="Problems-Output_names_of_the_methods_main" target="11" />
+      <module name="Problems-Output_names_of_the_methods_test" target="11" />
       <module name="Problems-Remove_elements_of_a_collection_main" target="11" />
       <module name="Problems-Remove_elements_of_a_collection_test" target="11" />
+      <module name="Problems-Returning_from_a_method_main" target="11" />
+      <module name="Problems-Returning_from_a_method_test" target="11" />
       <module name="Problems-Rotating_table_main" target="11" />
       <module name="Problems-Rotating_table_test" target="11" />
       <module name="Problems-The_first_index_of_a_sublist_main" target="11" />
