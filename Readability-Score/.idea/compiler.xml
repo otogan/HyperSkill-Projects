@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="Problems-Backward_indexes_main" target="11" />
       <module name="Problems-Backward_indexes_test" target="11" />
+      <module name="Problems-Convert_to_byte_array_main" target="11" />
+      <module name="Problems-Convert_to_byte_array_test" target="11" />
       <module name="Problems-Filtering_the_list_main" target="11" />
       <module name="Problems-Filtering_the_list_test" target="11" />
       <module name="Problems-Finding_the_max_number_main" target="11" />
