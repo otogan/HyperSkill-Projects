@@ -10,6 +10,8 @@
       <module name="Problems-Backward_indexes_test" target="11" />
       <module name="Problems-Books_as_strings_main" target="11" />
       <module name="Problems-Books_as_strings_test" target="11" />
+      <module name="Problems-Check_IP_address_main" target="11" />
+      <module name="Problems-Check_IP_address_test" target="11" />
       <module name="Problems-Convert_persons_and_patients_to_string_main" target="11" />
       <module name="Problems-Convert_persons_and_patients_to_string_test" target="11" />
       <module name="Problems-Convert_to_byte_array_main" target="11" />
