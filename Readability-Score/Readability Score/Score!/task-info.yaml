@@ -188,6 +188,29 @@ files:
         }
     }
   learner_created: false
+- name: src/readability/Main.java
+  visible: true
+  text: |
+    package readability;
+
+    import java.util.Arrays;
+    import java.util.Scanner;
+
+    public class Main {
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+            String input = scanner.nextLine().trim();
+            String[] sentences = input.split("[.!?]");
+            int wordCount = 0;
+            for (String sentence : sentences) {
+                String[] words = sentence.trim().split("[ \\s]+");
+                wordCount += words.length;
+            }
+            double average = (double) wordCount / sentences.length;
+            System.out.println(average > 10 ? "HARD" : "EASY");
+        }
+    }
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/39/stages/207/implement
-status: Unchecked
+status: Solved
 record: -1

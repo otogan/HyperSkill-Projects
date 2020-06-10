@@ -42,6 +42,8 @@
       <module name="Problems-The_first_index_of_a_sublist_test" target="11" />
       <module name="Problems-Time_as_a_string_main" target="11" />
       <module name="Problems-Time_as_a_string_test" target="11" />
+      <module name="Problems-Vehicle_registration_number_main" target="11" />
+      <module name="Problems-Vehicle_registration_number_test" target="11" />
       <module name="Problems-Working_with_queue_main" target="11" />
       <module name="Problems-Working_with_queue_test" target="11" />
       <module name="Problems-Writing_a_class_main" target="11" />
